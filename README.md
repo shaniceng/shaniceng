@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey there 👋
+
+- 🎓 I'm a third-year undergraduate student at NUS, fueled by a passion for software engineering.
+- 🌱 Currently diving deep into app and web technologies, honing my skills in software development. 🚀
+- 📫 You can reach me at ngshanice2010@gmail.com or connect on [LinkedIn](www.linkedin.com/in/shaniceng).
 
 <!--
 **shaniceng/shaniceng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
